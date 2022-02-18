@@ -1,5 +1,5 @@
 <div align="center" >
-  <img  src="https://monophy.com/media/dCcHF5252Fxq5mrRhc/monophy.gif" width="250" >
+  <img  src="https://monophy.com/media/dCcHF5252Fxq5mrRhc/monophy.gif" width="200" >
 </div>
 
 <h2> Hola, Soy Barb!:raising_hand:</h2>
